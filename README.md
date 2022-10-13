@@ -9,4 +9,4 @@ Commands to download modules:
   - pip install opencv-python
   - pip install imutils
 
-For output referance please check the Instagram page: @python_projects_
+For output referance please check the Instagram page: https://www.instagram.com/hack_smashes/
